@@ -13,7 +13,7 @@ Watch the project description video - https://drive.google.com/file/d/1zI8ckNaB9
 
 **Technology Stack**
 - Programming Language: C#
-The project leverages C# to create a robust and efficient backend for managing data and system workflows.
+  (The project leverages C# to create a robust and efficient backend for managing data and system workflows.)
 
 
 **File Overview**
