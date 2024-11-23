@@ -19,6 +19,5 @@ Demo Video: A comprehensive demonstration of the platform in action.
 
 Contact
 For further inquiries or suggestions, feel free to reach out:
-
 Email: pooja.umangani99@gmail.com
-LinkedIn: linkedin.com/in/pooja-obeysekara-8890b7242
+
