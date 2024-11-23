@@ -1,2 +1,4 @@
 # Pet Adoption and Rehoming Management System
 This project aims to develop a management system dedicated to the adoption and rehoming of homeless street animals, primarily cats and dogs in Sri Lanka. The system allows users to report sightings of street animals, providing essential details such as breed, traits, location, and health conditions. By creating detailed profiles for each animal, the platform connects potential adopters with those in need, empowering the community to actively participate in improving the lives of these animals. With a user-friendly interface and features like animal profile browsing and stakeholder connectivity, the platform promotes compassion and responsibility toward street animals. This initiative seeks to foster a culture of empathy and collaboration, making a meaningful impact on animal welfare in Sri Lanka.
+
+Watch the project description video - https://drive.google.com/file/d/1zI8ckNaB9frT_9XZFm-PZeKXfMpLbUA8/view?usp=sharing
