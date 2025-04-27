@@ -4,7 +4,9 @@ This project aims to develop a management system dedicated to the adoption and r
 --------------------------------------------------------------------------------------------------------------------------
 
 📽️ Project Resources
+
 🎬 Project Description Video: https://drive.google.com/file/d/1zI8ckNaB9frT_9XZFm-PZeKXfMpLbUA8/view 
+
 📄 Final Repor: https://drive.google.com/file/d/1SFzy5-Li8PqsuAzi2gASMqO4gi47H8zv/view?usp=sharing
 
 --------------------------------------------------------------------------------------------------------------------------
